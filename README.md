@@ -1,2 +1,5 @@
 # ML-Study-Note
-To satisfy my knowledge but full of passion..
+
+Reference: https://www.tensorflow.org and Deep Learning by Ian Goodfellow
+
+
